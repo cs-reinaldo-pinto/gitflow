@@ -13,3 +13,5 @@ TIMESTAMP="$(date +'%Y%m%d_%H-%M-%S')"
 
 echo "Ola cara"
 echo "Ola jovem"
+
+echo "Bugfix"
