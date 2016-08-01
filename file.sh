@@ -12,7 +12,6 @@ TIMESTAMP="$(date +'%Y%m%d_%H-%M-%S')"
 
 #Comentario na branch CS
 echo "Ola cara"
-echo "Ola jovem"
 
 echo "BugfixS"
 echo "Outro echo"
